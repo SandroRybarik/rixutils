@@ -1,0 +1,17 @@
+{
+  "name": "rixutils",
+  "version": "1.0.0",
+  "description": "Collection of nice to have browser functions that I needed multiple times.",
+  "main": "monitor.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandroRybarik/rixutils.git"
+  },
+  "keywords": ["dom", "utils", "a11y"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandroRybarik/rixutils/issues"
+  },
+  "homepage": "https://github.com/SandroRybarik/rixutils#readme"
+}
