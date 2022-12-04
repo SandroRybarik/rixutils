@@ -1,6 +1,6 @@
 {
   "name": "rixutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of nice to have browser functions that I needed multiple times.",
   "main": "monitor.js",
   "repository": {
