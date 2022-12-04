@@ -3,7 +3,7 @@
  * @param {{ root: null|HTMLElement, rootMargin: string, threshold: number, trigger: 'once'|'multiple' }}
  * @returns {[(element: HTMLElement, action: () => void) => void]}
  */
- export default function monitor(options) {
+ export function monitor(options) {
   /**
    * Stores all attached elements we should act upon
    * @type {HTMLElement[]}
